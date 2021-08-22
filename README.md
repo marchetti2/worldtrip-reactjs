@@ -1,4 +1,4 @@
-# spacetraveling-blog
+# worldtrip
 
 <p align="center">
  <a href="#about">Sobre</a> | <a href="#technologies">Tecnologias</a> | <a href="#started">Instalação</a> | <a href="#license">Licença</a>
